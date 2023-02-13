@@ -5,7 +5,7 @@ from wordcloud import WordCloud
 
 def get_word_cloud(text):
     """Get a word cloud for a text string
-
+\application-hosting\
     Args:
         text: string for word cloud
     Returns:
